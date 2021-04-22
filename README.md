@@ -2,7 +2,7 @@
 
 マイパーソナルブログ、嫌ならぶっころすぞ！！！
 
-[Website(未竣工)](https://baioretto.host)
+[RESUME](none)
 
 <!-- .slide -->
 ## キャラクターデザィン
