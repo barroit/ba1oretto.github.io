@@ -1,110 +1,96 @@
-# 星合の空
+# ようこそ！
 
-欢迎访问我的个人主页！下面向你介绍一下我自己吧\~
+マイパーソナルブログ、嫌ならぶっころすぞ！！！
 
-[Resume](https://wu-kan.github.io/resume/resume.pdf)
-
-<!-- .slide -->
-
-## Contact
-
-- Address: **Sun Yat-sen University - 132 Waihuan East Rd. - Guangzhou, China**
-- Phone: **+86 18756280097**
-- Site: **<https://wu-kan.cn>**
-
-<!-- .slide vertical=true -->
-
-- E-mail:
-  - **[i@wu-kan.cn](mailto:i@wu-kan.cn)**
-  - **[wukan3@mail2.sysu.edu.cn](mailto:wukan3@mail2.sysu.edu.cn)**
-- WeChat: **Wu-\_-Kan**
+[Website(未竣工)](https://baioretto.host)
 
 <!-- .slide -->
-
-## Education
+## キャラクターデザィン
+&emsp;&emsp;**見てください！**
 
 <!-- .slide vertical=true -->
-
-School of Data and Computer Science, Sun Yat-sen University, Guangzhou
-
-- Bachelor of Computer Science (Supercomputer Class), Sept. 2017 - Jul. 2021 (expected)
-  - Principle of Supercomputer
-  - Parallel and Distributed Computing
-  - High Performance Computing
-  - Multicore Computing
+- **十六歳**
+- **男の子**
 
 <!-- .slide -->
-
-## Projects
+- **４月６日誕生**
+- **牡羊座**
 
 <!-- .slide vertical=true -->
-
-- [jekyll-theme-WuK](https://jekyll-theme-WuK.wu-kan.cn/)[![Star](https://img.shields.io/github/stars/wu-kan/wu-kan.github.io.svg)](https://github.com/wu-kan/wu-kan.github.io)[![Fork](https://img.shields.io/github/forks/wu-kan/wu-kan.github.io.svg)](https://github.com/wu-kan/wu-kan.github.io/fork)
-  - A static blog system with content-first, sliding sidebar theme.
-  - Powered by Jekyll.
+- **高校生**
+- **勉強たくないです**
 
 <!-- .slide -->
-
-## Honors
-
-- **Finalist**, [ASC20-21 Student Supercomputer Challenge](http://www.asc-events.org/ASC20-21/Finals.php), Preliminary Contest, Jan. 2021
-
-<!-- .slide vertical=true -->
-
-- **Gold Medal (Rank 4)**, [CCF Collegiate Computer Systems & Programming Contest](https://wu-kan.cn/_posts/2020-10-17-2020-CCF-CCSP%E7%AB%9E%E8%B5%9B-%E5%90%AB%E5%88%86%E8%B5%9B%E5%8C%BA%E7%AB%9E%E8%B5%9B/), South China Division, Oct. 2020
-- **First Scholarship**, Oct. 2020
-- **Silver Medal (Rank 2)**, The 8th "Intel Cup" [Parallel Application Challenge](http://sdcs.sysu.edu.cn/content/5501), Sept. 2020
-- **First Prize (Rank 3) & Winner Prize (Rank 5)**, [Priority Research Application](https://cas-pra.sugon.com/webnews/detail/205), Aug. 2020
+- すき  
+**いちご・コーラ・林檎**  
+**コーヒー・にゃこ・家**
 
 <!-- .slide vertical=true -->
-
-- **Top 0.05% in 11395**, [The 18th CCF Certified Software Professional](https://wu-kan.cn/_posts/2019-12-16-%E7%AC%AC%E5%8D%81%E5%85%AB%E6%AC%A1CCF%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%BD%AF%E4%BB%B6%E8%83%BD%E5%8A%9B%E8%AE%A4%E8%AF%81/), Dec. 2019
-- **Silver Medal**, [ICPC Asia Regional Contest Xuzhou Site](https://wu-kan.cn/_posts/2019-11-04-%E5%86%8D%E8%A7%81-%E7%AE%97%E6%B3%95%E7%AB%9E%E8%B5%9B/), Nov. 2019
-- **Second Scholarship**, Oct. 2019
-- **First Prize**, China Collegiate Programming Contest, Guangdong Division, May 2019
-
-<!-- .slide vertical=true -->
-
-- **Third Scholarship**, Oct. 2018
-- **First Prize**, China Collegiate Programming Contest, Guangdong Division, May 2018
+- きらい  
+**集合体・パリピな場所・学校**  
+**魚・油身の肉・山葵**
 
 <!-- .slide -->
+## ここから
+&emsp;&emsp;**ゲーム/SNSアカウント諸々**
 
-## Leadership
-
-- Leader of [SYSU-SCC](https://github.com/SYSU-SCC)
+<!-- .slide vertical=true -->
+- Phone: **+86 15910731237**
+- Discord: **Ba1oretto#5273**
+- QQ: **1021930727**
+- WeChat: **Ba1oretto**
 
 <!-- .slide -->
+- Battle.net: **Baioretto#2432**
+- Battle.net.cn: **ZeroTwo#51861**
+- EPIC: **Ba1oretto**
+- Origin: **Ba1oretto**
+- Playstation: **Ba1oretto**
+- Nintendo: **Baioretto**
 
+<!-- .slide vertical=true -->
+- **[twitter](https://twitter.com/ZeroTwo08100166)**
+- **[bilibili](https://space.bilibili.com/361996128)**
+- **[github](https://github.com/Ba1oretto)**
+- **[osu!](https://osu.ppy.sh/users/18794761)**
+- **[playlist](http://music.163.com/playlist?id=2883225565&userid=544876029)**
+
+<!-- .slide -->
+- **[instagram](https://www.instagram.com/baioretto_w/)**
+- **[reddit](https://www.reddit.com/user/Ba1oretto)**
+- **[facebook](https://www.facebook.com/profile.php?id=100029532212638)**
+- **[youtube](https://www.youtube.com/channel/UC_Gaj5YRUTnJ6aqrX5KEAIA)**
+- **[Email](mailto:1021930727@qq.com)**
+
+<!-- .slide vertical=true -->
+## Location
+&emsp;&emsp;**Miyun, Peking, China**
+
+<!-- .slide -->
 ## Blogs
 
-- [基于 Jekyll 搭建个人博客](https://wu-kan.cn/_posts/2019-01-18-%E5%9F%BA%E4%BA%8EJekyll%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/)
-- [我的算法竞赛模板](https://wu-kan.cn/_posts/2019-02-04-%E6%88%91%E7%9A%84%E7%AE%97%E6%B3%95%E7%AB%9E%E8%B5%9B%E6%A8%A1%E6%9D%BF/)
-- [这一年的一点感想](https://wu-kan.cn/_posts/2019-07-18-%E8%BF%99%E4%B8%80%E5%B9%B4%E7%9A%84%E4%B8%80%E7%82%B9%E6%84%9F%E6%83%B3/)
-- [再见，算法竞赛！](https://wu-kan.cn/_posts/2019-11-04-%E5%86%8D%E8%A7%81-%E7%AE%97%E6%B3%95%E7%AB%9E%E8%B5%9B/)
+- [开始！我人生中第一篇博客]()
+- [使用Jekyll搭建博客的一些心得]()
+- []()
+- []()
 
 <!-- .slide vertical=true -->
-
-- [今日此时所想之事](https://wu-kan.cn/_posts/2020-01-24-%E4%BB%8A%E6%97%A5%E6%AD%A4%E6%97%B6%E6%89%80%E6%83%B3%E4%B9%8B%E4%BA%8B/)
-- [十月九日](http://wu-kan.cn/_posts/2020-10-09-%E5%8D%81%E6%9C%88%E4%B9%9D%E6%97%A5/)
-- [今日此时所想之事（二）](https://wu-kan.cn/_posts/2021-02-11-%E4%BB%8A%E6%97%A5%E6%AD%A4%E6%97%B6%E6%89%80%E6%83%B3%E4%B9%8B%E4%BA%8B-%E4%BA%8C/)
-
-<!-- .slide -->
-
 ## Skills
 
-<!-- .slide vertical=true -->
-
-- **C/C++**, Familiar
-  - **OpenMP**, Familiar
-  - **MPI**, Familiar
-  - **CUDA**, Familiar&Learning
-- **Python**, Familiar
-
-<!-- .slide vertical=true -->
-
-- **Markdown**, Familiar
-- **$\LaTeX$**, Familiar
+- **VPN**, Familiar
+- **V2Ray**, Familiar
+- **PC DIY**, Familiar
+- **markdown**, Familiar&Learning
+- **HTML**, Familiar&Learning
 - **Linux**, Familiar&Learning
-- **Git**, Familiar
-- **VSCode**, Familiar
+
+<!-- .slide -->
+- **C/C++**, Learning
+- **Git**, Learning
+- **VSCode**, Learning
+- **Java**, Learning
+- **日本語**, Learning
+
+<!-- .slide vertical=true -->
+## **FIN**
+&emsp;&emsp;&emsp;&emsp;PS: 别忘记点右上角的展开哦
