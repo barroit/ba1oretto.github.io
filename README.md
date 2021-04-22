@@ -32,11 +32,11 @@
 
 <!-- .slide -->
 - 欲しい  
-**まだ彼女がいないので、恋をしたい**
+**まだ彼女がいないので、恋をしたい**  
 **因为还没有女朋友，所以想要恋爱**
 
 <!-- .slide vertical=true -->
-- **playlist**
+- **playlist**  
 &emsp;&emsp;**[网易云](http://music.163.com/playlist?id=2883225565&userid=544876029)**
 
 <!-- .slide -->
