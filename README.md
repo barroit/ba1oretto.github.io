@@ -101,5 +101,5 @@
 
 <!-- .slide vertical=true -->
 ## **FIN**
-&emsp;&emsp;&emsp;&emsp;PS: 别忘记点右上角的展开哦
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(头像是可以戳的哟)
+&emsp;&emsp;&emsp;&emsp;PS: 别忘记点右上角的展开哦  
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;(头像是可以戳的哟)
