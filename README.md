@@ -2,7 +2,7 @@
 
 マイパーソナルブログ、嫌ならぶっころすぞ！！！
 
-[RESUME](none)
+[RESUME](/assets/Resume/resume.pdf)
 
 <!-- .slide -->
 ## キャラクターデザィン
