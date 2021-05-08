@@ -2,7 +2,8 @@
 
 マイパーソナルブログ、嫌ならぶっころすぞ！！！
 
-[RESUME](/assets/Resume/resume.pdf)
+[RESUME](/assets/content/Resume/resume.pdf)  
+[鈴仙・優曇華院・イナバ！！！](/assets/content/Reisen/Inaba.html)
 
 <!-- .slide -->
 ## キャラクターデザィン
