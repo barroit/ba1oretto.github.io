@@ -397,7 +397,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
               - | # 觉得我的主题好用的话，让更多的人知道它吧！
                 <div>
                   <i class="fas fa-thumbs-up fa-fw"></i>
-                  <a href="https://ba1oretto.com">
+                  <a href="https://space.bilibili.com/361996128">
                     Baioretto
                   </a>
                 </div>
@@ -619,7 +619,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
             - | # 需要配置的变量见<https://merger.justhx.com/cn/docs/configure>
               <script>
                 var myname = "Baioretto";
-                var profile = "/assets/image/avatar.png";
+                var profile = "/assets/image/icon/avatar.png";
                 var usage = "payment";
                 var wechat = "wxp://f2f0IGhuu2JcCiV2dAYj9U7nYIrWVlemHY7B";
                 var tenpay = "https://i.qianbao.qq.com/wallet/sqrcode.htm?m=tenpay&f=wallet&a=1&ac=CAEQ59ml5wMY98CGhAY%3D_xxx_sign&u=1021930727&n=baioretto%E3%80%82%F0%9F%8D%93";

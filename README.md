@@ -78,7 +78,7 @@
 <!-- .slide -->
 ## Blogs
 
-- [开始！我人生中第一篇博客]()
+- [鈴仙～　鈴仙～](https://ba1oretto.com/_posts/2021-05-09-reisen)
 - [使用Jekyll搭建博客的一些心得]()
 - []()
 - []()
