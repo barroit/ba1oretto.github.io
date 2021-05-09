@@ -61,12 +61,12 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
             - | # 网站小图标，可换成你自己的图片，改href中的部分即可
               <link
                 rel="apple-touch-icon-precomposed"
-                href="/assets/image/urlicon.png"
+                href="/assets/image/icon/titleicon.ico"
               />
               <link
                 rel="shortcut
                 icon"
-                href="/assets/image/urlicon.png"
+                href="/assets/image/icon/titleicon.ico"
               />
             - | # 来自lanyon的页面样式，不要改
               <link
@@ -156,11 +156,11 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                   background-position: 0% 0%;
                   background-repeat: no-repeat;
                   background-attachment: fixed;
-                  background-image: url(/assets/image/PEbackground.png); //PE background
+                  background-image: url(/assets/image/background/PEbackground.png); //PE
                 }
                 @media (min-aspect-ratio: 2400/1850) {
                   .wrap {
-                    background-image: url(/assets/image/PCbackground.png); //PC background
+                    background-image: url(/assets/image/background/PCbackground.png); //PC
                   }
                 }
                 .sidebar-overlay #sidebar-checkbox:checked ~ .wrap {
@@ -224,7 +224,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
             disable: false # 是否不显示sidebar
             avatar: # 侧边栏显示的头像
               enable: true
-              img: /assets/image/avatar.png # 头像的地址
+              img: /assets/image/icon/avatar.png # 头像的地址
             nav: # 导航部分的内容，你也可以自己增加文字、图标（来自fontawesome）和对应的链接
               - title: '<i class="fas fa-home fa-fw"></i> 首页'
                 href: /
