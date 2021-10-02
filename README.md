@@ -68,9 +68,9 @@
 <!-- .slide -->
 ## Blogs
 
-- [鈴仙～　鈴仙～](https://ba1oretto.com/_posts/2021-05-09-reisen)
-- [使用Jekyll搭建博客的一些心得]()
-- []()
+- [鈴仙～　鈴仙～](_posts\2021-05-09-reisen.md)
+- [博客搭建过程](_posts\2021-4-10-create blog.md)
+- [V2ray搭建过程](_posts\2021-05-10-v2ray.md)
 - []()
 
 <!-- .slide vertical=true -->
@@ -78,19 +78,12 @@
 
 - **VPN**, Familiar
 - **V2Ray**, Familiar
-- **PC DIY**, Familiar
-- **markdown**, Familiar&Learning
-- **HTML**, Familiar&Learning
-- **Linux**, Familiar&Learning
 
 <!-- .slide -->
-- **C/C++**, Learning
-- **Git**, Learning
-- **VSCode**, Learning
 - **Java**, Learning
 - **日本語**, Learning
 
 <!-- .slide vertical=true -->
 ## **FIN**
-&emsp;&emsp;&emsp;&emsp;PS: 别忘记点右上角的展开哦  
+&emsp;&emsp;&emsp;&emsp;PS: 别忘记点右上角的展开捏  
 &emsp;&emsp;&emsp;&emsp;&emsp;&ensp;(头像是可以戳的哟)
