@@ -68,9 +68,9 @@
 <!-- .slide -->
 ## Blogs
 
-- [鈴仙～　鈴仙～](http://ba1oretto.github.io/_posts/2021-05-09-reisen.md)
-- [博客搭建过程](http://ba1oretto.github.io/_posts/2021-4-10-create blog.md)
-- [V2ray搭建过程](http://ba1oretto.github.io/_posts/2021-05-10-v2ray.md)
+- [鈴仙～　鈴仙～](http://ba1oretto.github.io/_posts/2021-05-09-reisen/)
+- [博客搭建过程](http://ba1oretto.github.io/_posts/2021-04-10-create-blog/)
+- [V2ray搭建过程](http://ba1oretto.github.io/_posts/2021-05-10-v2ray/)
 - []()
 
 <!-- .slide vertical=true -->
