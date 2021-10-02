@@ -1,7 +1,7 @@
 ---
 title: 博客搭建
 tags:
-  - 教程
+  - 心得
 ---
 
 ## ***本站是基于Jekyll在windows上(非原生)配置了ruby和bundler后搭建的***
@@ -9,8 +9,7 @@ tags:
 服务器用的是**github仓库**(完全免费)  
 后期会考虑把站点移植到自己的vps上去
 
-### 如果你也想搭建博客的话
-可以参考我列出来的教程:
+参考教程:
 - [酒石酸的视频](https://b23.tv/BKmxVC)
 - [jekyll配置](https://jekyllrb.com)
 - [吴坎的模板](https://github.com/wu-kan/jekyll-theme-WuK)
@@ -19,13 +18,11 @@ tags:
 - [Live2D模型](https://github.com/imuncle/live2d)
 - [菜蛇蛇の指导](https://caishangqi.github.io)
 
-有能力的可以全程开代理，因为软件源是国外的镜像以及谷歌也要用到  
-没有代理的可以去找你的朋友白嫖，或者参考[v2ray教程](https://ba1oretto.com/_posts/2021-05-10-v2ray)来搭一台代理服务器  
-其实你也可以**不配置Jekyll**直接下载模板来进行修改，不过没有**本地调试**的话大概率会把你搞自闭
+建议全程开代理
+没有代理的可以去找你的朋友白嫖，或者参考[v2ray教程](https://ba1oretto.github.io/_posts/2021-05-10-v2ray)来搭一台代理服务器  
+其实你也可以**不配置Jekyll**直接下载模板来进行修改，不过没有**本地调试**的话难度大增
 
-按顺序看完基本上就能搭建出来了。
-
-### 有些坑我说一下:  
+### 避坑:  
 打开***power shell***时一定要在你所克隆下来的**项目根目录**中进行。  
 如果在调试阶段运行***jekyll server***时提示**(Gem::NotFound)**可以尝试
 ```bash
