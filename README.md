@@ -2,7 +2,7 @@
 
 マイパーソナルブログ、嫌ならぶっころすぞ！！！
 
-[RESUME(轻度凡尔赛)](/assets/content/Resume/resume.pdf)  
+[RESUME](/assets/content/Resume/resume.pdf)  
 [鈴仙・優曇華院・イナバ！](/assets/content/Reisen/Inaba.html)
 
 <!-- .slide -->
