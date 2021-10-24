@@ -1,10 +1,12 @@
 # ようこそ！
 
-マイパーソナルブログ、嫌ならぶっころすぞ！！！
+マイパーソナルブログ、嫌ならぶっころすぞ！！！<br /><br />
 
-[WorkSpace](/assets/content/Resume/workspace.pdf)  
+[WorkSpace](/assets/content/Resume/workspace.pdf)<br />
 
-[鈴仙・優曇華院・イナバ！](/assets/content/Reisen/Inaba.html)
+[鈴仙・優曇華院・イナバ！](/assets/content/Reisen/Inaba.html)<br /><br />
+
+[博客一览](http://ba1oretto.github.io/_posts/0001-01-01-archive.md)
 
 
 <!-- .slide -->
