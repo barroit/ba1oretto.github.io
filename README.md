@@ -2,7 +2,7 @@
 
 マイパーソナルブログ、嫌ならぶっころすぞ！！！
 
-[RESUME](/assets/content/Resume/resume.pdf)  
+[workplace](/assets/content/Resume/workplace.png)  
 [鈴仙・優曇華院・イナバ！](/assets/content/Reisen/Inaba.html)
 
 
