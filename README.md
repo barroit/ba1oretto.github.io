@@ -3,6 +3,7 @@
 マイパーソナルブログ、嫌ならぶっころすぞ！！！
 
 [WorkSpace](/assets/content/Resume/workspace.pdf)  
+
 [鈴仙・優曇華院・イナバ！](/assets/content/Reisen/Inaba.html)
 
 
