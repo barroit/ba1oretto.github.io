@@ -1,7 +1,7 @@
 ---
 title: 博客搭建
 tags:
-  - 心得
+  - 历程
 ---
 
 ## ***本站是基于Jekyll在windows上(非原生)配置了ruby和bundler后搭建的***

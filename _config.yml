@@ -82,6 +82,13 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
             - | # 点击复制功能
               <script
                 src="plugins/clipboard/clipboard.min.js"
+                var clipboard = new Clipboard('.btn');//这个地方可以写你的class  或者#id..
+                clipboard.on('success', function(e) {
+                    console.log(e);
+                });
+                clipboard.on('error', function(e) {
+                    console.log(e);
+                });
               ></script>
 
             - | # 引入live2d看板娘！不需要可以把这一项都删掉
