@@ -1,12 +1,12 @@
 # ようこそ！
 
-マイパーソナルブログ、嫌ならぶっころすぞ！！！<br /><br />
+マイパーソナルブログ、嫌ならぶっころすぞ！！！
 
-[WorkSpace](/assets/content/Resume/workspace.pdf)<br />
+[WorkSpace](/assets/content/Resume/workspace.pdf)
 
-[鈴仙・優曇華院・イナバ！](/assets/content/Reisen/Inaba.html)<br /><br />
+[鈴仙・優曇華院・イナバ！](/assets/content/Reisen/Inaba.html)
 
-[博客一览](http://ba1oretto.github.io/_posts/0001-01-01-archive.md)
+[文章一览](https://ba1oretto.com/archive/)
 
 
 <!-- .slide -->
@@ -24,7 +24,7 @@
 
 ## ここから
 
-&emsp;&emsp;**ゲーム/SNSアカウント諸々**
+&emsp;&emsp;**ゲーム/SNSアカウント諸々**<br/><br/>
 
 - Phone: **+86 15910731237**
 - Discord: **Ba1oretto#5273**
@@ -36,12 +36,11 @@
 - **[twitter](https://twitter.com/ZeroTwo08100166)**
 - **[bilibili](https://space.bilibili.com/361996128)**
 - **[github](https://github.com/Ba1oretto)**
-- **[osu!](https://osu.ppy.sh/users/18794761)**
 - **[instagram](https://www.instagram.com/baioretto_w/)**
 - **[reddit](https://www.reddit.com/user/Ba1oretto)**
 - **[facebook](https://www.facebook.com/profile.php?id=100029532212638)**
 - **[youtube](https://www.youtube.com/channel/UC_Gaj5YRUTnJ6aqrX5KEAIA)**
-- **[Email](mailto:1021930727@qq.com)**
+- **[Email](mailto:sunjiamu@outlook.com)**
 
 <!-- .slide vertical=true -->
 
@@ -49,16 +48,19 @@
 
 &emsp;&emsp;**Miyun, Peking, China**
 
+[comment]: <> (<!-- .slide -->)
+
+[comment]: <> (## Blogs)
+
+[comment]: <> (- [鈴仙]&#40;http://ba1oretto.github.io/_posts/2021-05-09-reisen/&#41;)
+
+[comment]: <> (- [博客搭建过程]&#40;http://ba1oretto.github.io/_posts/2021-04-10-create-blog/&#41;)
+
+[comment]: <> (- [V2ray搭建过程]&#40;http://ba1oretto.github.io/_posts/2021-05-10-v2ray/&#41;)
+
+[comment]: <> (- []&#40;&#41;)
+
 <!-- .slide -->
-
-## Blogs
-
-- [鈴仙](http://ba1oretto.github.io/_posts/2021-05-09-reisen/)
-- [博客搭建过程](http://ba1oretto.github.io/_posts/2021-04-10-create-blog/)
-- [V2ray搭建过程](http://ba1oretto.github.io/_posts/2021-05-10-v2ray/)
-- []()
-
-<!-- .slide vertical=true -->
 
 ## Skills
 
@@ -67,7 +69,7 @@
 - **Java**, Learning
 - **日本語**, Learning
 
-<!-- .slide -->
+<!-- .slide vertical=true -->
 
 ## **FIN**
 
