@@ -4,9 +4,9 @@
 
 [WorkSpace](/assets/content/Resume/workspace.pdf)
 
-[鈴仙・優曇華院・イナバ！](/assets/content/Reisen/Inaba.html)
+[Java学习笔记](/_posts/1970-1-1-check.md)
 
-[文章一览](https://ba1oretto.com/archive/)
+[文章一览](/_posts/0001-01-01-tags.md)
 
 
 <!-- .slide -->
@@ -47,18 +47,6 @@
 ## Location
 
 &emsp;&emsp;**Miyun, Peking, China**
-
-[comment]: <> (<!-- .slide -->)
-
-[comment]: <> (## Blogs)
-
-[comment]: <> (- [鈴仙]&#40;http://ba1oretto.github.io/_posts/2021-05-09-reisen/&#41;)
-
-[comment]: <> (- [博客搭建过程]&#40;http://ba1oretto.github.io/_posts/2021-04-10-create-blog/&#41;)
-
-[comment]: <> (- [V2ray搭建过程]&#40;http://ba1oretto.github.io/_posts/2021-05-10-v2ray/&#41;)
-
-[comment]: <> (- []&#40;&#41;)
 
 <!-- .slide -->
 
