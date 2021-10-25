@@ -170,11 +170,16 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                   background-position: 0% 0%;
                   background-repeat: no-repeat;
                   background-attachment: fixed;
-                  background-image: url(/assets/image/background/PEbackground.jpg); //PE
+                  background-image: url(/assets/image/background/phone.jpg); //Iphone
                 }
-                @media (min-aspect-ratio: 2400/1850) {
+                @media (min-aspect-ratio: 16/9) {
                   .wrap {
-                    background-image: url(/assets/image/background/PCbackground.jpg); //PC
+                    background-image: url(/assets/image/background/computer.jpg); //PC
+                  }
+                }
+                @media (min-aspect-ratio: 1080/2340) {
+                  .wrap {
+                    background-image: url(/assets/image/background/ipad.jpg); //Ipad
                   }
                 }
                 .sidebar-overlay #sidebar-checkbox:checked ~ .wrap {
