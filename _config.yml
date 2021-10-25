@@ -172,12 +172,12 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                   background-attachment: fixed;
                   background-image: url(/assets/image/background/phone.jpg); //Iphone
                 }
-                @media (min-aspect-ratio: 16/9) {
+
+                @media (min-aspect-ratio: 16/11) {
                   .wrap {
-                    background-image: url(/assets/image/background/computer.jpg); //PC
+                    background-image: url(/assets/image/background/ipad.jpg); //Ipad
                   }
                 }
-
                 .sidebar-overlay #sidebar-checkbox:checked ~ .wrap {
                   width: calc(100% - 14rem);
                   background-size: calc(100% - 14rem) auto;
@@ -773,10 +773,8 @@ kramdown: # 见<https://kramdown.gettalong.org/options.html>
 #kramdown:
 #  math_engine: mathjax
 #  syntax_highlighter: rouge
-
-
-#@media (min-aspect-ratio: 16/11) {
+#@media (min-aspect-ratio: 16/9) {
 #                  .wrap {
-#                    background-image: url(/assets/image/background/ipad.jpg); //Ipad
+#                    background-image: url(/assets/image/background/computer.jpg); //PC
 #                  }
 #                }
