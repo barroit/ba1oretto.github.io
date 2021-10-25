@@ -177,7 +177,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                     background-image: url(/assets/image/background/computer.jpg); //PC
                   }
                 }
-                @media (min-aspect-ratio: 1080/2340) {
+                @media (min-aspect-ratio: 16/11) {
                   .wrap {
                     background-image: url(/assets/image/background/ipad.jpg); //Ipad
                   }
