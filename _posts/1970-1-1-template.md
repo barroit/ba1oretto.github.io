@@ -1,5 +1,5 @@
 ---
-title: Pattern
+title: template
 tags:
   - Java学习笔记
 ---
