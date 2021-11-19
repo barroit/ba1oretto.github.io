@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(14, 16, 17);
+    
+}
+li{
+    list-style-type:none;
+}
+.textAlignCenter{
+    text-align:center;
+}
+.fontStyle{
+    color:#4169E1;
+}
+#div1st{
+    font-size:40px;
+    line-height:70px;
+}
+#div2nd{
+    font-size:32px;
+    line-height:50px;
+}
+#div3rd{
+    background-color:rgb(24, 30, 99);
+    width:150px;
+    height:36px;
+    border:1px solid #228B22;
+    border-radius: 11px;
+    display:block;
+    margin:30px auto;
+}
+#a1st{
+    text-decoration:none;
+    color:#e94cab;
+    font-size:24px;
+}
