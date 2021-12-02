@@ -49,10 +49,10 @@
 
 ## Skills
 
-- **VPN**, Familiar
-- **V2Ray**, Familiar
 - **Java**, Learning
-- **日本語**, Learning
+- **Web**, Learning
+- **Spring**, Learning
+- **日本語**, 勉強中
 
 <!-- .slide vertical=true -->
 
