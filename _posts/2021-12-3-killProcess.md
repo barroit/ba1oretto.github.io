@@ -4,10 +4,10 @@ tags:
   - 历程
 ---
 
-### <font color=FFC0CB> 第一步: </font> <font color=#F1C40F> 查看你要关闭的端口的*PID* </font>
+### <font color=FFC0CB> 第一步: </font> 查看你要关闭的端口的*PID*
 `netstat -a -n -o | findstr :<Port Number>` (参数顺序可自定义)
  
-### <font color=FFC0CB> 第二步: </font> <font color=#F1C40F> 杀进程! </font>
+### <font color=FFC0CB> 第二步: </font> 杀进程!
 `taskkill /f /pid <PID>`
 
 
