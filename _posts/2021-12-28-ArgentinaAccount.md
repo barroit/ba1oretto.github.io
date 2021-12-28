@@ -75,7 +75,7 @@ tags:
 > ## 切换到之前让你打开的邮箱页面
 > ## 不出意外你会收到一封来自steam团队为你发送的注册确认邮件在 *其他* 中
 > ![](/assets/image/postImage/2021-12-28-ArgentinaAccount/steamconfirmsignup.png)
-> ## 现在让我们点击 _验证我的电子邮件地址_ 已完成注册
+> ## 现在让我们点击 _验证我的电子邮件地址_ 以完成注册
 
 <br><br><br>
 
