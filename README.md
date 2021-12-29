@@ -2,14 +2,13 @@
 
 マイパーソナルブログ、嫌ならぶっころすぞ！！！
 
-联络请发邮件: [sunjiamu@outlook.com](mailto:sunjiamu@outlook.com)
-
 [Java基础笔记](/_posts/1970-1-1-check.md)
 
 [Java基础往后的笔记只上传至github](https://github.com/Ba1oretto/TEDU)
 
 [文章一览](/_posts/0001-01-01-tags.md)
 
+联络请发邮件: [sunjiamu@outlook.com](mailto:sunjiamu@outlook.com)
 
 <!-- .slide -->
 
