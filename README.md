@@ -2,7 +2,7 @@
 
 マイパーソナルブログ、嫌ならぶっころすぞ！！！
 
-[WorkSpace](/assets/content/Resume/workspace.pdf)
+联络请发邮件: [sunjiamu@outlook.com](mailto:sunjiamu@outlook.com)
 
 [Java基础笔记](/_posts/1970-1-1-check.md)
 
