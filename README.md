@@ -2,7 +2,7 @@
 
 マイパーソナルブログ、嫌ならぶっころすぞ！！！
 
-[Java基础笔记](/_posts/1970-1-1-check.md)
+[Java基础笔记](/_posts/1970-01-01-check.md)
 
 [Java基础往后的笔记只上传至github](https://github.com/Ba1oretto/TEDU)
 
