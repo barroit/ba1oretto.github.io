@@ -1,7 +1,7 @@
 ---
 title: 释放一个正在运行的端口
 tags: 
-  - 历程
+  - 日常
 ---
 
 ### <font color=FFC0CB> 第一步: </font> 查看你要关闭的端口的*PID*
