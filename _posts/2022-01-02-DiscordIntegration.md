@@ -1,4 +1,4 @@
---
+---
 title: 在discord上显示ide的状态
 tags:
   - 日常
