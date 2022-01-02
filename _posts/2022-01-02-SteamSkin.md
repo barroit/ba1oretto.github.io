@@ -18,6 +18,8 @@ tags:
 ### 它提供了一个图形界面可以让你更方便地进行皮肤替换的操作, 并且会自动地将你的图片转换为steam需要的格式
 ### 并且它有两种主题可供选择, 分别是 _亮色调版本_ 与 _普通版本(暗色调)_ , 你甚至可以使用它去更改steam的字体
 
+<br><br><br>
+
 # 1.下载
 > <br>
 >
@@ -30,12 +32,16 @@ tags:
 > ## 并确保它只有一级目录
 > ![](/assets/image/postImage/2022-01-02-SteamSkin/menulevel.png)
 
+<br><br><br>
+
 # 2.导入
 > <br>
 >
 > ## 现在把你的文件导入到皮肤文件夹中, 它位于你steam的安装路径(非库路径)
 > ###(../steam/skins/)
 > ![](/assets/image/postImage/2022-01-02-SteamSkin/skinlocation.png)
+
+<br><br><br>
 
 # 3.应用皮肤
 > <br>
@@ -45,6 +51,8 @@ tags:
 > ![](/assets/image/postImage/2022-01-02-SteamSkin/enableskin.png)
 > ## 然后重启你的steam, 你现在也许可以看到皮肤被正确地加载了
 > ### 如果未生效, 确保在你的皮肤目录下它只有一级文件夹 _../steam/skins/Threshold-Miku/*_
+
+<br><br><br>
 
 # 4.修改皮肤
 > <br>
