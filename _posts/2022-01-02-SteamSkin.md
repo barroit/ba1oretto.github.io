@@ -7,7 +7,7 @@ tags:
 <br>
 
 # steam提供了自定义皮肤的功能, 让你可以修改那深灰色像混凝土一样的皮肤
-![](/assets/image/postImage/2022-01-02-SteamSkin/steamlibrary.png)
+![](/assets/image/postImage/2022-01-02-SteamSkin/steamlibrarypage.png)
 
 ## 不过具体操作起来十分繁琐, 要配置大量的文件, 还会涉及到图片的转换, 非常的麻烦
 ## 好在市面上已经有比较成熟的皮肤自定义应用了
