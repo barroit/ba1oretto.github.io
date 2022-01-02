@@ -65,6 +65,7 @@ tags:
 > 
 > > ## click to select an image: 下拉复选框, 你可以看到一个列表, 以选择你要更改背景的位置
 > > ## set new background: 配合选择列表, 你可以更换当前被选择的背景的样子
+> > ### 需要注意, 图片分辨率应严格按照其给定的数值进行设定(使用ps裁剪, 缩放), 且文件大小不能过大(大概为2m左右), 否则会失效
 > > ![](/assets/image/postImage/2022-01-02-SteamSkin/selectlist.png)
 > 
 > > ## customization(定制)
