@@ -80,4 +80,4 @@ tags:
 > ## 现在你的脚本已经正确加载了
 
 # 由于篇幅原因, 下一篇我们再来讲如何挂刀
-## 文章地址: [steam挂刀入门](https://baioretto.com/_posts/2021-12-30-PocketDifference.md)
+## 文章地址: [steam挂刀入门](https://baioretto.com/_posts/2021-12-30-PocketDifference/)
