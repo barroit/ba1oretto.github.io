@@ -141,6 +141,13 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                 }
               </style>
 
+            - | # 列表竖线颜色
+              <style>
+                blockquote {
+                  border: rgb(48, 53, 55);
+                }
+              </style>
+
             - | #修复行内图片默认样式
               <style>
                 img {
