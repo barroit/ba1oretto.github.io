@@ -19,7 +19,7 @@ tags:
 > > ### Maven home path
 > > ### User settings file
 > > ### Local repository
-> ![](/assets/image/postImage/2022-01-10-LoadMavenProject/MavenConfigurations.png)
+> ![](/assets/image/posts/2022-01-10-LoadMavenProject/MavenConfigurations.png)
 
 # 2.配置父级pom
 > <br>

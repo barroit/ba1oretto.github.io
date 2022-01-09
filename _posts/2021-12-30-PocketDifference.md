@@ -15,7 +15,7 @@ tags:
 > ### ③: 当前正常挂刀比例
 > ### ④: 当前求购求购人数
 > ### ⑤: 当前求购最高价格挂刀比例
-> ![](/assets/image/postImage/2021-12-30-PocketDifference/infoshort.png)
+> ![](/assets/image/posts/2021-12-30-PocketDifference/infoshort.png)
 
 <br><br><br>
 
@@ -34,7 +34,7 @@ tags:
 > ### ⑧: 当前求购价格
 > ### ⑨: 求购挂刀比例
 > ### ⑩: 相同求购价格的数量
-> ![](/assets/image/postImage/2021-12-30-PocketDifference/infofull.png)
+> ![](/assets/image/posts/2021-12-30-PocketDifference/infofull.png)
 
 <br><br><br>
 
