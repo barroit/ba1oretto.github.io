@@ -1,7 +1,7 @@
 ---
 title: 加载maven项目
 tags:
-  - idea
+  - intelliJ
 ---
 
 <br>
@@ -20,6 +20,8 @@ tags:
 > > ### User settings file
 > > ### Local repository
 > ![](/assets/image/posts/2022-01-10-LoadMavenProject/MavenConfigurations.png)
+> ## 另外你还需要注意项目的SDK是否正确地进行了配置
+> ## 项目的SDK位于 _File -> Project Structure -> Project Settings -> Project -> SDK_
 
 # 2.配置父级pom
 > <br>
