@@ -1,7 +1,7 @@
 ---
 title: 加载maven项目
 tags:
-  - intelliJ
+  - JetBrains
 ---
 
 <br>

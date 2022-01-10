@@ -1,7 +1,7 @@
 ---
 title: intelliJ常用快捷键
 tags:
-  - intelliJ
+  - JetBrains
 ---
 
 <br>
