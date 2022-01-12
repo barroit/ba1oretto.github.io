@@ -126,7 +126,7 @@ tags:
 > > ### [waifu2x-caffe](https://github.com/lltcggie/waifu2x-caffe/releases)
 > > [Topaz Video Enhance AI](https://www.topazlabs.com/video-enhance-ai)
 > 
-> ## downloader
+> ## Downloader
 > > ### [4K Video Downloader](https://www.4kvideodownloader.com/?from=prod)
 
 <br><br><br>
