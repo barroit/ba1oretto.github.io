@@ -1,7 +1,7 @@
 ---
 title: git补档
 tags:
-  - Git
+  - Linux
 ---
   
 ## 准备一台装有CentOS 8的服务器或虚拟机 (后文统称服务器)
