@@ -49,9 +49,13 @@ tags:
 > 修改 *push.sh* 中的 `bash /root/Baioretto/workspace/auto-commit/write.sh` 成你自己的 `bash <your path>/write.sh` (一定要保证路径正确)
 
 ## 开始补档
+### 设置时间
+> 设置成你想开始补档的时间 `timedatectl set-time 'xxxx-xx-xx xx:xx:xx'` (年-月-日 时-分-秒)
+> 如果报错 "Failed to set time: NTP unit is active" 则运行 `timedatectl set-ntp no`
 ### 运行loop.sh
 > `bash loop.sh <times>`
-> <times>为你循环的次数, 每次循环会 push 九个 commit
-> 第一次运行会让你配置邮箱与用户名
+> <times>为你循环的次数, 每次循环会 push 九个 commit, 每个循环加一天
+> 第一次运行会让你输入邮箱与用户名, 你也可以在配置文件中进行全局配置 `vi ~/.gitconfig`
+> 假如要从2021年3月1日开始到2021年6月1日结束(不包含2021年6月1日), 那么先运行`timedatectl set-time '2021-3-1 13:00:00'` 再运行 `bash loop.sh 92` (你应当考虑一个月中有多少天, 尤其是2月)
 > 可以在write中修改每次循环的 commit 的次数
 > *node add.js && git add records.txt && git commit -a -m '补档'* 为一次 commit
