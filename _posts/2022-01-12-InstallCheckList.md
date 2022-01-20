@@ -128,18 +128,13 @@ tags:
 > 
 > ## Downloader
 > > ### [4K Video Downloader](https://www.4kvideodownloader.com/?from=prod)
+> > ### [qbittorrent](https://www.qbittorrent.org/download.php)
+> > ### [internet download manager](https://www.internetdownloadmanager.com/download.html)
 
 <br><br><br>
 
 # Recorder
 > > ### [OBS](https://obsproject.com/)
-
-<br><br><br>
-
-# Cloud Drive
-> ## 小心捆绑!!!
-> > ### [迅雷](https://www.xunlei.com/)
-> > ### [百度网盘](https://pan.baidu.com/download)
 
 <br><br><br>
 
