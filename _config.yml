@@ -170,8 +170,8 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
             - | # 选中字体颜色
               <style>
                 ::selection {
-                  color: rgb(1, 61, 51);
-                  background: White;
+                  color: White;
+                  background: Black;
                 }
               </style>
 
