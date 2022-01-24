@@ -1,7 +1,7 @@
 ---
-title: Github补档
+title: Linux实现Git补档
 tags:
-  - Linux
+  - Git
 ---
   
 <br>
@@ -68,3 +68,6 @@ tags:
 > #### 第一次运行会让你输入邮箱与用户名, 你也可以在配置文件中进行全局配置 `vi ~/.gitconfig`
 > #### 假如要从2021年3月1日开始到2021年6月1日结束(不包含2021年6月1日), 那么先运行`timedatectl set-time '2021-3-1 13:00:00'` 再运行 `bash loop.sh 92` (你应当考虑一个月中有多少天, 尤其是2月)
 > #### 可以在write中修改每次循环的 commit 的次数, *node add.js && git add records.txt && git commit -a -m '补档'* 为一次 commit
+
+
+# 下一篇: [centOS实现Git自动提交](https://baioretto.com/_post/2022-01-20-GitAutoCommit/)
