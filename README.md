@@ -49,8 +49,8 @@
 ## Skills
 
 - **Java**, Learning
-- **Web**, Learning
-- **Spring**, Learning
+- **Spring**, Professional
+- **HTML**, Learning
 - **日本語**, 勉強中
 
 <!-- .slide vertical=true -->
