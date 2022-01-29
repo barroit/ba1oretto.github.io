@@ -97,6 +97,7 @@ tags:
 > > ### [Codec Tweak Tool](https://codecguide.com/download_other.htm)
 > > ### [Codec Pack Basic](https://codecguide.com/download_k-lite_codec_pack_basic.htm)
 > > ### [小丸工具箱](https://maruko.appinn.me/)
+> > ### [蓝莓投屏](http://deeprd.com/)
 > 
 > ## Data Pack
 > > ### [GARbro](https://github.com/morkt/GARbro/releases)
