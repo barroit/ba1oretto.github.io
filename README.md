@@ -19,7 +19,7 @@
 
 ## ここから
 
-&emsp;&emsp;**社交社交**<br/><br/>
+&emsp;&emsp;**SNSアカウント諸々**<br/><br/>
 
 - Phone: **+86 15910731237**
 - Discord: **Ba1oretto#5273**
@@ -52,4 +52,4 @@
 
 ## **FIN**
 
-&emsp;&emsp;&emsp;&emsp;PS: 别忘惹右上角的展开(头像可以戳捏)
+&emsp;&emsp;&emsp;&emsp;PS: 在右上角可以展开侧栏(头像可以戳)
