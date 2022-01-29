@@ -1,5 +1,5 @@
 ---
-title: Git将已提交的项目重新加入版本控制
+title: Git将已提交的项目移除版本控制
 tags:
   - Git
 ---
